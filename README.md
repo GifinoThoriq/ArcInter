@@ -1,2 +1,3 @@
-# Ihkeya
-Build Web Application using PHP called Ihkeya
+# Arcinter
+Landing page template using pure html,css, js
+this website also responsive too
